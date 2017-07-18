@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Example Tabs</string>
+    <string name="title1">title1</string>
+    <string name="title2">title2</string>
+    <string name="title3">title3</string>
+</resources>
